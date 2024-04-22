@@ -8,4 +8,4 @@ Our much-quoted player market values as well as the "Rumour Mill"​ for possibl
 
 We supply news, stats, videos, fan opinions and player agent information. 
 
-The platform was found-ed by Matthias Seidel in 2001. Axel Springer has a 51 percent stake in the Transfermarkt since 2008.
+The platform was founded by Matthias Seidel in 2001. Axel Springer has a 51 percent stake in the Transfermarkt since 2008.
