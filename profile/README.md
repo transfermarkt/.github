@@ -1,4 +1,4 @@
-## Hi there this is Transfermarkt 👋
+## This is Transfermarkt 👋
 
 Transfermarkt is the leading digital football platform for facts, statistics and community. We operate in 10 languages and reach up to 30 million football fans per month worldwide. 
 
